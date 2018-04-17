@@ -1,0 +1,12 @@
+{
+  "name": "hackernews-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tcscheurer/hackernews-node.git",
+  "author": "tcscheurer <trevor.scheurer1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.8.5",
+    "prisma-binding": "^1.5.17"
+  }
+}
